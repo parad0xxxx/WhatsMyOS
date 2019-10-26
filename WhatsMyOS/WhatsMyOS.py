@@ -10,9 +10,11 @@ creator = 'Parad0x' # the creator of this project
 arch = platform.architecture()[0] # gets OS architecture (32-bit, 64-bit)
 pro = platform.processor() # gets processors
 release = platform.release() # gets OS update
-
-print('---------------------------------------')
-print('Welcome ' + username + ' to ' + program_name + '!') # welcomes computer username to program name
+if os == 'Windows': # since this was based for Windows, if statement = True, print welcome screen // else pass.
+	print('---------------------------------------')
+	print('Welcome ' + username + ' to ' + program_name + '!') # welcomes computer username to program name
+else:
+	pass
 print('---------------------------------------')
 print('Lets Start!\n')
 print("• Your computer is running:\n " + os) # prints OS type
