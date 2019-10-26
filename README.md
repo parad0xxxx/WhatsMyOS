@@ -1,7 +1,12 @@
 # WhatsMyOS
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-# Supported Systems
+#### Updates
+* Removed (Welcome user) screen, which is only available on Windows (so other OS can run it)
+* Supported and tested MacOS and Linux.
+* Updated Stable status.
+
+#### Supported Systems
 * Windows (developed on, highest chance of stabilisation) / stable.
 * MacOS (untested) / not stable.
 * Linux (untested) / not stable.
