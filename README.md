@@ -7,9 +7,9 @@
 * Updated Stable status.
 
 #### Supported Systems
-* Windows (developed on, highest chance of stabilisation) / stable.
-* MacOS (untested) / not stable.
-* Linux (untested) / not stable.
+* Windows (developed on, highest chance of stabilisation) / stable. Welcome screen supported!
+* MacOS (tested) / stable. Welcome screen unsupported, automatically skips event.
+* Linux (tested) / stable. Welcome screen unsupported, automatically skips event.
 
 #### Who made this?
 * parad0x (front-end developer)
