@@ -2,9 +2,9 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 # Supported Systems
-• Windows (developed on, highest chance of stabilisation) / stable.
-• MacOS (untested) / not stable.
-• Linux (untested) / not stable.
+* Windows (developed on, highest chance of stabilisation) / stable.
+* MacOS (untested) / not stable.
+* Linux (untested) / not stable.
 
 #### Who made this?
 * parad0x (front-end developer)
