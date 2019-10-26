@@ -15,7 +15,7 @@
 * parad0x (front-end developer)
 
 #### What does it do?
-__It gathers information, such as:__
+It gathers information, such as:
 * Architecture
 * Running OS (Windows, MacOS, Linux)
 * Node (name of desktop connected to internet)
