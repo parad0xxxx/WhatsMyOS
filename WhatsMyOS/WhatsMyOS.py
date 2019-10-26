@@ -7,7 +7,7 @@ username = os.path.expanduser('~').split('\\')[2] # computer username
 os = platform.system() # OS (windows, mac, linux)
 node = platform.node() # gets name of computer connected to internet
 creator = 'Parad0x' # the creator of this project
-arch = platform.architecture()[0] # gets OS architecture (32-bit, 64-bit)
+arch = platform.architecture()[0] # gets OS architecture (32-bit, 64-bit) // index 0 is to prevent str errors.
 pro = platform.processor() # gets processors
 release = platform.release() # gets OS update
 if os == 'Windows': # since this was based for Windows, if statement = True, print welcome screen // else pass.
