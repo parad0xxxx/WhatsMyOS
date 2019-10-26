@@ -20,4 +20,4 @@ print("• Your architecture is:\n " + arch) # prints architecture type
 print("• Your OS release is:\n " + os + ' ' + release) # prints OS release (update)
 print("• Your network name is:\n " + node) # prints name of computer connected to internet
 print("• Your processors are:\n " + pro) # prints computer processors
-print("Thanks for using " + program_name + " this was made by " + creator) # finishes off with the name of the program, and the creator of it.
+print("\nThanks for using " + program_name + " this was made by " + creator) # finishes off with the name of the program, and the creator of it.
