@@ -14,6 +14,7 @@ if os == 'Windows': # since this was based for Windows, if statement = True, pri
 	print('---------------------------------------')
 	print('Welcome ' + username + ' to ' + program_name + '!') # welcomes computer username to program name
 else:
+	print("You're running " + os + ' which the welcome screen does not support! Skipping...')
 	pass
 print('---------------------------------------')
 print('Lets Start!\n')
